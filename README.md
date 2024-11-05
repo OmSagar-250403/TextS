@@ -138,4 +138,4 @@ Email: omsagar250403@gmail.com
 
     AWS_ECR_LOGIN_URI = 050752619223.dkr.ecr.ap-south-1.amazonaws.com/text-s
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = text-s
