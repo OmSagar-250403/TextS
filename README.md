@@ -136,6 +136,6 @@ Email: omsagar250403@gmail.com
 
     AWS_REGION = ap-south-1
 
-    AWS_ECR_LOGIN_URI = demo>>  050752619223.dkr.ecr.ap-south-1.amazonaws.com/text-s
+    AWS_ECR_LOGIN_URI = 050752619223.dkr.ecr.ap-south-1.amazonaws.com/text-s
 
     ECR_REPOSITORY_NAME = simple-app
